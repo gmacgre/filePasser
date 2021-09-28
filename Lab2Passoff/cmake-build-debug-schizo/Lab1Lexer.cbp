@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Lab1Lexer"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/users/guest/g/gmacgre/cs236/Lab1Lexer/cmake-build-debug-schizo"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/g/gmacgre/cs236/Lab1Lexer/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/g/gmacgre/cs236/Lab1Lexer/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/g/gmacgre/cs236/Lab1Lexer/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/g/gmacgre/cs236/Lab1Lexer/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/users/guest/g/gmacgre/cs236/Lab1Lexer/cmake-build-debug-schizo"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/g/gmacgre/cs236/Lab1Lexer/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/g/gmacgre/cs236/Lab1Lexer/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/g/gmacgre/cs236/Lab1Lexer/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/g/gmacgre/cs236/Lab1Lexer/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/users/guest/g/gmacgre/cs236/Lab1Lexer/cmake-build-debug-schizo"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/g/gmacgre/cs236/Lab1Lexer/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/g/gmacgre/cs236/Lab1Lexer/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/g/gmacgre/cs236/Lab1Lexer/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/g/gmacgre/cs236/Lab1Lexer/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab1Lexer">
+				<Option output="/users/guest/g/gmacgre/cs236/Lab1Lexer/cmake-build-debug-schizo/Lab1Lexer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/users/guest/g/gmacgre/cs236/Lab1Lexer/cmake-build-debug-schizo"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/g/gmacgre/cs236/Lab1Lexer/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 Lab1Lexer"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/g/gmacgre/cs236/Lab1Lexer/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/g/gmacgre/cs236/Lab1Lexer/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/g/gmacgre/cs236/Lab1Lexer/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab1Lexer/fast">
+				<Option output="/users/guest/g/gmacgre/cs236/Lab1Lexer/cmake-build-debug-schizo/Lab1Lexer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/users/guest/g/gmacgre/cs236/Lab1Lexer/cmake-build-debug-schizo"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/g/gmacgre/cs236/Lab1Lexer/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 Lab1Lexer/fast"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/g/gmacgre/cs236/Lab1Lexer/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/g/gmacgre/cs236/Lab1Lexer/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/g/gmacgre/cs236/Lab1Lexer/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/DataLogProgram.cpp">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/DataLogProgram.h">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/AddAuto.cpp">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/AddAuto.h">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/Automaton.h">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/BlockCommentAuto.cpp">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/BlockCommentAuto.h">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/ColonAutomaton.cpp">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/ColonAutomaton.h">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/ColonDashAutomaton.cpp">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/ColonDashAutomaton.h">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/Comma.cpp">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/Comma.h">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/CommentAuto.cpp">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/CommentAuto.h">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/EndOfFileAuto.cpp">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/EndOfFileAuto.h">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/FactsAuto.cpp">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/FactsAuto.h">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/IdAuto.cpp">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/IdAuto.h">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/LeftParenAuto.cpp">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/LeftParenAuto.h">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/Lexer.cpp">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/Lexer.h">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/MultiplyAuto.cpp">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/MultiplyAuto.h">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/Period.cpp">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/Period.h">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/QueriesAuto.cpp">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/QueriesAuto.h">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/QuestionAuto.cpp">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/QuestionAuto.h">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/RightParenAuto.cpp">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/RightParenAuto.h">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/RulesAuto.cpp">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/RulesAuto.h">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/SchemesAuto.cpp">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/SchemesAuto.h">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/StringAuto.cpp">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/StringAuto.h">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/UndefAuto.cpp">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/LexerAndLexerNodes/UndefAuto.h">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/Parameter.cpp">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/Parameter.h">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/ParserAndParseNodes/ParserTest.cpp">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/ParserAndParseNodes/ParserTest.h">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/Predicate.cpp">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/Predicate.h">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/Rule.cpp">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/Rule.h">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/Token.cpp">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/Token.h">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/main.cpp">
+			<Option target="Lab1Lexer"/>
+		</Unit>
+		<Unit filename="/users/guest/g/gmacgre/cs236/Lab1Lexer/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
